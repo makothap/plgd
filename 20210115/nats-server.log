@@ -1,0 +1,6 @@
+[46] 2021/01/16 00:40:20.812812 [INF] Starting nats-server version 2.1.9
+[46] 2021/01/16 00:40:20.950148 [INF] Git commit [7c76626]
+[46] 2021/01/16 00:40:20.950774 [INF] Listening for client connections on 0.0.0.0:10001
+[46] 2021/01/16 00:40:20.950810 [INF] TLS required for client connections
+[46] 2021/01/16 00:40:20.950822 [INF] Server id is NDNC3UP65EKZ6EMD7DYBENT5DC7C7PXZC7RYDEVMDAWM3JHZ3SUUV462
+[46] 2021/01/16 00:40:20.950831 [INF] Server is ready
